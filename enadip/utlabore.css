@@ -1,0 +1,1 @@
+AWS.config.update({ region: 'cn-north-1' });
